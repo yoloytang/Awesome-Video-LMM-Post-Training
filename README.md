@@ -67,6 +67,8 @@ If you find our survey useful for your research, please cite the following paper
 
 | Title | Paper | Code | Dataset | Venue |
 | :--- | :---: | :---: | :---: | :---: |
+| TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs | [Paper](https://arxiv.org/abs/2607.17423) | [GitHub](https://github.com/MCG-NJU/TimeLens2) | | arXiv 2026 |
+| Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning | [Paper](https://arxiv.org/abs/2601.23224) | [GitHub](https://github.com/MCG-NJU/Video-o3) | | ICML 2026 |
 | Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization | [Paper](https://arxiv.org/abs/2504.12083) | [GitHub](https://github.com/pritamqu/RRPO) | [Dataset](https://huggingface.co/datasets/pritamqu/self-alignment) | NeurIPS 2025 |
 | VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception | [Paper](https://arxiv.org/abs/2509.21100) | [GitHub](https://github.com/OpenGVLab/VideoChat-R1) |  | NIPS 2025 |
 | MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for Video Temporal Reasoning | [Paper](https://arxiv.org/abs/2509.21113) |  |  |  |
